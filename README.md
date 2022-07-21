@@ -1,8 +1,8 @@
 ### Hey you, welcome to my GitHub 👋
 
 
-- 🔭 I’m currently working on Back-End
-- 🌱 I’m currently learning JavaScript, MySQL and Node.Js
+- 🔭 I’m working on Back-End
+- 🌱 I’m learning JavaScript, MySQL and Node.Js
 
 ##
 <div align="center">
