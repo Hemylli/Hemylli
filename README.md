@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m working on Back-End
-- 🌱 I’m learning Java, AWS and SQL
+- 🌱 I’m learning Python, AWS and SQL
 
 ##
 <div align="center">
